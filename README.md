@@ -57,9 +57,7 @@ $ ./ifUnderPrice.py
 * Requests - Python HTTP client interface library
 * openpyxl - Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
 
