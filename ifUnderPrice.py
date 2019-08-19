@@ -28,7 +28,7 @@ def compare_price(URL, set_price, user_agent, body):
         price = soup.find(id='priceblock_ourprice').getText()
         float_price = float(price[5:].replace(',', ''))
 
-        if set_price > float_price:
+        if set_price >= float_price:
             body += '\nPrice right: ' + URL
             return body
         else:
