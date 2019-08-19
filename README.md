@@ -1,6 +1,6 @@
 # Amazon Price Tracker
 
-App checks product price on Amazon and if that price falls below your desired price for that product an email will be sent as a reminder. The app uses an excel file to hold all of the products and your set price for them. Each product will be checked and a daily report will be sent via email of the product prices that have met the desired price that you set.
+App checks product price on Amazon and if that price falls below or equals your desired price for that product an email will be sent as a reminder. The app uses an excel file to hold all of the products and your set price for them. Each product will be checked and a daily report will be sent via email of the product prices that have met the desired price that you set.
 
 ## How It Works
 
