@@ -48,7 +48,7 @@ $ chmod +x ifUnderPrice.py
 To run
 
 ```
-$ ./ifUnderPrice.py
+$ python3 ifUnderPrice.py
 ```
 
 ## Dependencies
